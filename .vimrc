@@ -3,6 +3,7 @@ set ai
 set bg=light
 set t_Co=256
 set syntax=true
+syntax on
 set autoindent
 set hlsearch
 set mouse=a
