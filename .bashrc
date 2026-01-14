@@ -1,0 +1,4 @@
+alias ll='ls -al'
+alias l='ls'
+alias d='cd ~/Desktop'
+alias t='tree'
