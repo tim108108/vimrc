@@ -8,6 +8,10 @@ set autoindent
 set hlsearch
 set mouse=a
 colo torte
+
 set listchars=tab:\ -▸,space:·,trail:~,eol:↵
 set list
 set nolist
+
+set colorcolumn=80,120
+set cc=
